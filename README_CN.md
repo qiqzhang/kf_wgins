@@ -1,3 +1,6 @@
+# KF-WGINS
+- [x] 添加轮速观测
+
 # KF-GINS
 
 [[中]](./README_CN.md) &ensp; [[EN]](./README.md)

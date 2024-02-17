@@ -1,3 +1,6 @@
+# KF-WGINS
+- [x] add wheel speed observer
+
 # KF-GINS
 
 [[中]](./README_CN.md) &ensp; [[EN]](./README.md)
